@@ -1,2 +1,2 @@
 # AulasOrientacaoObjetoJava
-Trabalhando com construtores em java
+Trabalhando com construtores em Java e também sem construtores.
